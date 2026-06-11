@@ -1,4 +1,4 @@
-
+--Write a solution to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.
 --one way to solve this is to see if the visit id is not in the transactions table using where clause 
 SELECT
     customer_id,
